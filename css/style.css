@@ -173,8 +173,7 @@ header nav ul li a{
 	display: inline-block;
 }
 header nav ul li a.button{
-	border: 1px solid #0052cc;
-	border-radius: 4px;
+	
 }
 header nav ul li a.button:hover{
 	background: #0052cc;
@@ -967,9 +966,7 @@ footer section.top div.item ul {
 	#pricing section.bottom div.content {
 		padding: 0px;
 	}
-	.wrapper {
-		width: 100%;
-	}
+	
 	header section.wrapper {
 		justify-content: center;
 	}
